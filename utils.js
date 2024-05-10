@@ -14,7 +14,7 @@ const AVAILABLE_COMANDS_LIST = [
   {
     command: "--action remove --id",
     description:
-      "It allows you to remove a product from the list, based on its id.",
+      "It allows you to remove a contact from the list, based on its id.",
   },
 ];
 
