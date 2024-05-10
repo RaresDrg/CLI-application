@@ -8,7 +8,7 @@ const AVAILABLE_COMANDS_LIST = [
     description: "It returns a contact from the list, based on its id",
   },
   {
-    command: "--action add --name --size --type ",
+    command: "--action add --name --email --phone ",
     description: "It allows you to add a contact to the list",
   },
   {
